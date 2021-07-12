@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="utf-8">
+			<title>Testing Width, Height, and Overflow with The Oh Hellos' "Grow"</title>
+			<style>
+				body{
+				text-align: center;
+				}
+				.bg-gray{
+				background-color: rgb(31, 31, 31);
+				}
+				.headings-style{
+				font-family: "proxima-nova", "metropolis", "monospace";
+				color: rgb(226, 200, 131);
+				background-color: rgb(88, 92, 52);
+				}
+				#title-style{
+				font-size: 47px;
+				font-weight: 300;
+				}
+				#artists-style{
+				font-size: 43px;
+				}
+				#lyrics-style{
+				font-size: 39px;
+				p{
+				font-family: "source-code-pro", "inconsolata", "akkurat-mono", "sans-serif";
+				color: white;
+				}
+				.chorus-style{
+				font-family: "dante", "galliard", "serif";
+				font-style: italic;
+				#album-style{
+				color: rgb(194, 194, 194);
+				}
+			</style>
+		</head>
+		<body>
+			<div class="headings-style"><span id="title-style"><h1>Grow</h1></span>
+			<h2><span id="artists-style">By: The Oh Hellos</span></h2>
+			<span id="lyrics-style"><h1>Lyrics</h1></span>
+			</div>
+			<p>Between the seams that line your living room<br>
+A vine of ivy's pushing her way through<br>
+And as she creeps along, she sinks her roots<br>
+Into the cracks, and pulls 'em back until the structure's coming loose</p>
+
+<div class="bg-gray">
+<p>And the way the shadows on the wall are cast<br>
+Look like a twisted apparition from the past<br>
+And all the memories come flooding fast<br>
+A wilderness you kinda miss, but were taught you ought to cut it back</p>
+
+<p>So you shut it out<br>
+You shout it down<br>
+Until you're all white-knuckled<br>
+You got a lot to learn, if you'd settle down</p>
+
+<span class="chorus-style"><p>Let be what is, let be what isn't<br>
+It's a natural world in which we're living<br>
+And if you let it alone, it will surely grow
+Just leave it alone, child, and let it go</p></span>
+
+<p>And when all your ziggurats have crumbled down<br>
+And every stone is thrown like seeds across the ground
+A new Arcadia will come around<br>
+And multiply until the binds of death have been unwound</p>
+
+<p>So don't you shut it out<br>
+Don't you shout it down<br>
+And get your feathers ruffled<br>
+You got a lot to learn, if you'd just settle down<br>
+And let the river run its course</p>
+
+<p>'Cause see, the ground all around<br>
+It was always holy<br>
+Leave the ruins where they fall<br>
+Leave them all<br>
+And let the wild take over</p>
+
+<span class="chorus-style"><p>Let be what is, let be what isn't<br>
+It's a natural world in which we're living<br>
+And if you let it alone, it will surely grow<br>
+Just leave it alone, child, and let it go</p></span>
+
+<span class="chorus-style"><p>Let be what is, let be what isn't<br>
+It's a natural world in which we're living<br>
+And if you let it alone, it will surely grow<br>
+Just leave it alone, child, and let it go</p></span>
+			<img src="https://images.squarespace-cdn.com/content/v1/5583…E2GMHJR8AF4K4Z00NI/a2312883437_10.jpg?format=500w">
+
+			</div>
+			<h3 id="album-style">Eurus</h3>
+		</body>
+	</html>
