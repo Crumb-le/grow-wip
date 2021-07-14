@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="utf-8">
+			<title>Lab: "Grow"</title>
+			<style>
+				body{
+				    text-align: center;
+				}
+				.bg-style{
+				    background-color: rgb(31, 31, 31);
+				    overflow-y: auto;
+				}
+				.headings-style{
+				    font-family: "proxima nova", "montserrat thin", monospace;
+				    text-transform: uppercase;
+				    letter-spacing: 3px;
+				    word-spacing: 3px;
+				    color: rgb(226, 200, 131);
+				    background-color: rgb(88, 92, 52);
+				    overflow-y: auto;
+				}
+				#title-style{
+				    font-size: 48px;
+				    line-height: 100px;
+				}
+				#artist-style{
+				    font-size: 30px;
+				    line-height: 1em;
+				}
+				#lyrics-style{
+				    font-size: 38px;
+				    line-height: 60px;
+				}
+				p{
+				    font-family: "source code pro regular", "inconsolata", sans-serif;
+				    color: white;
+				}
+				.chorus-style{
+				    font-family: "dante", "josefin slab semibold", serif;
+				    font-size: 18px;
+				}
+				.closing-words{
+				    font-family: "proxima nova", "montserrat light", monospace;
+				    font-size: 15px;
+				    letter-spacing: 2px;
+				    color: rgb(209, 209, 209);
+				}
+				#album-style{
+				    font-size: 13.5px;
+				}
+				#copyright-style{
+				    font-size: 14px;
+				}
+				#pic{
+				    width: 100%;
+				}
+			</style>
+		</head>
+		<body>
+			<div class="headings-style">
+			<h1><span id="title-style">Grow</span></h1>
+			<h2><span id="artist-style">By: The Oh Hellos</span></h2>
+			<h1><span id="lyrics-style">Lyrics</span></h1>
+			</div>
+			
+			<div class="bg-style">
+			<p>Between the seams that line your living room<br>
+A vine of ivy's pushing her way through<br>
+And as she creeps along, she sinks her roots<br>
+Into the cracks, and pulls 'em back until the structure's coming loose</p>
+
+<p>And the way the shadows on the wall are cast<br>
+Look like a twisted apparition from the past<br>
+And all the memories come flooding fast<br>
+A wilderness you kinda miss, but were taught you ought to cut it back</p>
+
+<p>So you shut it out<br>
+You shout it down<br>
+Until you're all white-knuckled<br>
+You got a lot to learn, if you'd settle down</p>
+
+<p><span class="chorus-style">
+Let be what is, let be what isn't<br>
+It's a natural world in which we're living<br>
+And if you let it alone, it will surely grow<br>
+Just leave it alone, child, and let it go</span></p>
+
+<p>And when all your ziggurats have crumbled down<br>
+And every stone is thrown like seeds across the ground<br>
+A new Arcadia will come around<br>
+And multiply until the binds of death have been unwound</p>
+
+<p>So don't you shut it out<br>
+Don't you shout it down<br>
+And get your feathers ruffled<br>
+You got a lot to learn, if you'd just settle down<br>
+And let the river run its course</p>
+
+<p>'Cause see, the ground all around<br>
+It was always holy<br>
+Leave the ruins where they fall<br>
+Leave them all<br>
+And let the wild take over</p>
+
+<p><span class="chorus-style">
+Let be what is, let be what isn't<br>
+It's a natural world in which we're living<br>
+And if you let it alone, it will surely grow<br>
+Just leave it alone, child, and let it go</span></p>
+
+<p><span class="chorus-style">
+Let be what is, let be what isn't<br>
+It's a natural world in which we're living<br>
+And if you let it alone, it will surely grow<br>
+Just leave it alone, child, and let it go</span></p>
+
+			<a href="https://open.spotify.com/track/6nLg7AX22DN13JA6DYXyqX?si=1615b074fc8445af"><img id="pic" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/The_Oh_Hellos.jpg/1200px-The_Oh_Hellos.jpg" alt="The Oh Hellos, July 2014"></a>
+			
+			<span class="closing-words">
+			<h4 id="album-style">Eurus</h4>
+			<h3 id="copyright-style">©2018 The Oh Hellos</h3>
+			</span>
+			</div>
+		</body>
+	</html>
